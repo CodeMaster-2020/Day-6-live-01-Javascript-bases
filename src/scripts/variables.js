@@ -1,18 +1,3 @@
-// var/let/const (DON’T BE BIASED: var is still a totally valid statement, and it ought be used even if let is fashionable)
-// data types
-// operators
-// control structures
-// loops
-// scopes: local/global and what is a lexical scope
-// hoisting
-// return
-// ; and ASI
-// console.log()
-// dot notation
-// Obj api
-// Array api
-// functions syntax (we only need them to be able to make a function not to make a fancy one)
-
 var name = "LeBron";
 
 let surname = "James";
